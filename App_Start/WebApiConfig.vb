@@ -6,7 +6,7 @@ Imports System.Web.Http
 Public Module WebApiConfig
     Public Sub Register(ByVal config As HttpConfiguration)
         ' Web API configuration and services
-
+        'Erdal Test
         ' Web API routes
         config.MapHttpAttributeRoutes()
 
